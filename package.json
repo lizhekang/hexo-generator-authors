@@ -1,5 +1,5 @@
 {
-  "name": "hexo-generator-author",
+  "name": "hexo-generator-authors",
   "version": "0.0.1",
   "main": "index",
   "description": "Author generator for Hexo.",
