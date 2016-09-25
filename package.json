@@ -1,0 +1,16 @@
+{
+  "name": "hexo-generator-author",
+  "version": "0.0.1",
+  "main": "index",
+  "description": "Author generator for Hexo.",
+  "keywords": [
+    "hexo",
+    "generator",
+    "author"
+  ],
+  "author": {
+    "email": "lizhekang@hotmail.com",
+    "name": "Dalexli",
+    "url": "http://blog.lk-life.com"
+  }
+}
