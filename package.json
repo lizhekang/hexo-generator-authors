@@ -1,16 +1,21 @@
 {
   "name": "hexo-generator-authors",
-  "version": "0.0.2",
-  "main": "index",
+  "version": "0.0.3",
   "description": "Author generator for Hexo.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizhekang/hexo-generator-authors.git"
+  },
   "keywords": [
     "hexo",
     "generator",
     "author"
   ],
-  "author": {
-    "email": "lizhekang@hotmail.com",
-    "name": "Dalexli",
-    "url": "http://blog.lk-life.com"
-  }
+  "author": "dalexli",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lizhekang/hexo-generator-authors/issues"
+  },
+  "homepage": "https://github.com/lizhekang/hexo-generator-authors#readme"
 }
