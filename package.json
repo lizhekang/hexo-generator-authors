@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-authors",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Author generator for Hexo.",
   "main": "index.js",
   "repository": {
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/lizhekang/hexo-generator-authors/issues"
   },
-  "homepage": "https://github.com/lizhekang/hexo-generator-authors#readme"
+  "homepage": "https://github.com/lizhekang/hexo-generator-authors#readme",
+  "dependencies": {
+    "hexo-pagination": "^0.1.0",
+    "object-assign": "^4.1.0"
+  }
 }
